@@ -1,0 +1,15 @@
+# React
+**/node_modules/
+**/dist/
+
+# Spring Boot
+**/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Variables de entorno
+**/.env
+**/.env.*
+!**/.env.example
