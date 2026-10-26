@@ -1,6 +1,6 @@
-package com.cuscoicultural.controller;
+package com.cuscocultural.controller;
 
-import com.cuscoicultural.model.Patrimonio;
+import com.cuscocultural.model.Patrimonio;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
